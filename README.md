@@ -7,15 +7,13 @@
 * Very interested in clean energy, renewable energy, fusion power, etc.
 
 * Love writing software (computer programmer), see:
+https://github.com/MooseValley
 
-*** https://github.com/MooseValley
+* On my web page I have uploaded more than 100 of my programs, and all but 1 are FREE:
 
-* My web page, where I have uploaded more than 100 of my programs, and all but 1 are FREE:
-
-*** Moose's Software Valley, established July-1996, 
+* Moose's Software Valley, established July-1996, 
 https://moosevalley.github.io/
 
-*** More about me (Moose) and my Software (includes contact details):
-
+* More about me (Moose) and my Software (includes contact details):
 https://moosevalley.github.io/email_moose.html
 
