@@ -14,11 +14,9 @@
 https://github.com/MooseValley
 
 * On my web page I have uploaded more than 100 of my programs, and all but 1 are FREE:
+https://moosevalley.github.io/mooses_software_a_to_z.html
 
-* Moose's Software Valley, established July-1996,
-https://moosevalley.github.io/
-
-* My web page:
+### My web page:
 * Moose's Software Valley - Established July, 1996,
 * https://moosevalley.github.io/
 
