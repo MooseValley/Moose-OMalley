@@ -16,6 +16,11 @@ https://github.com/MooseValley
 * On my web page I have uploaded more than 100 of my programs, and all but 1 are FREE:
 https://moosevalley.github.io/mooses_software_a_to_z.html
 
+Also see my fur kids:
+* Patty Cakes the Fox Terrier, https://github.com/moosevalley/patty-cakes
+* Sammi the Cocker Spaniel - aka Sammi Trailer, https://github.com/moosevalley/sammi
+* K-OS (aka Sneaky Cat) and D-Struction (aka Friendly Cat), https://github.com/MooseValley/K-OS-aka-Sneaky-Cat-and-D-Struction-aka-Friendly-Cat
+
 ### My web page:
 * Moose's Software Valley - Established July, 1996,
 * https://moosevalley.github.io/
