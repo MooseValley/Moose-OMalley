@@ -1,7 +1,5 @@
 # About me: Moose OMalley
 
-* I'm a self-funded retiree - never had any welfare or support from the government.  Paid a shit ton in taxes my whole life.
-
 * I live a simple life, just me and my fur kids (my pets) in an old farm house that needs a hell of a lot of work.  The nearest neighbor is miles away.  I love the peace and serenity and living close to nature.
 
 * The land was a pineapple farm and almost completely cleared of all trees when I purchased it.  However, I have encouraged the trees to grow back while also encouraging native wildlife: kangaroos, echidnas, goannas, snakes, birds, koalas, emus, wombats, and everything else to come back and live on the land.  I regularly see kangaroos near my house.
